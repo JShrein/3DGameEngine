@@ -2,8 +2,6 @@ package engineTester;
 
 import org.lwjgl.opengl.Display;
 import org.lwjgl.util.vector.Vector3f;
-
-
 import entities.Camera;
 import entities.Entity;
 import entities.Light;
